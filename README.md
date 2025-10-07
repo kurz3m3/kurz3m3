@@ -30,11 +30,6 @@ Thanks for checking out my GitHub (git pun intended 😉)! I love building thing
 
 ---
 
-## 📈 GitHub Stats
-![Harvey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurz3m3&show_icons=true&hide=contribs&theme=tokyonight)
-
----
-
 ## 🎮 Fun Facts
 - Master rank in **League of Legends** (Top 0.5% NA) 🏅
 - Enjoy playing golf (still working on my swing ⛳️😅)
