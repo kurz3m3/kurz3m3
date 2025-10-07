@@ -8,6 +8,7 @@ Thanks for checking out my GitHub (git pun intended 😉)! I love building thing
 
 ## 🏆 Highlight Project: MaizeBus
 [MaizeBus Website](https://www.maizebus.com/) • Cross-platform transit app for University of Michigan students (download now!)
+
 [MaizeBus GitHub](https://github.com/mbusdev) • Built with **Flutter** and **TypeScript**
 
 - 🚍 Built real-time transit visualization using **Flutter** + **Google Maps API**  
