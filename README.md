@@ -6,7 +6,7 @@ Thanks for checking out my GitHub (git pun intended 😉)! I love building thing
 
 ---
 
-## Highlight Project: MaizeBus
+## 〽️ Highlight Project: MaizeBus
 ![MaizeBus App Screenshot](https://www.maizebus.com/assets/header-CmIn1Qxl.jpg)
 
 
