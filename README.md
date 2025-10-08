@@ -15,7 +15,7 @@ Thanks for checking out my GitHub (git pun intended 😉)! I love building thing
 [MaizeBus GitHub](https://github.com/mbusdev) • Built with **Flutter** and **TypeScript**
 
 - 🚍 Built real-time transit visualization using **Flutter** + **Google Maps API**  
-- 🛠️ Developed routing engine with **RAPTOR algorithms** and heuristics to minimize ETA  
+- 🛠️ Developed routing engine with the **RAPTOR algorithm** and heuristics to minimize ETA  
 - ⚡ Applied SDLC best practices: Git workflow, unit testing, and CI/CD
 - 🌐 Serves UMICH campus with interactive map overlays and optimized routes
 
