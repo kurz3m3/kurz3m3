@@ -2,7 +2,7 @@
 
 **Aspiring Software Engineer | CS Student @ University of Michigan | Cofounder of MaizeBus App**
 
-Thanks for checking out my GitHub (git pun intended 😉)! I love building things and creating real-world solutions that make an impact.
+Thanks for checking out my GitHub (git pun intended 😉)! I love building things and creating real world solutions that make an impact.
 
 ---
 
@@ -14,7 +14,7 @@ Thanks for checking out my GitHub (git pun intended 😉)! I love building thing
 
 [MaizeBus GitHub](https://github.com/mbusdev) • Built with **Flutter** and **TypeScript**
 
-- 🚍 Built real-time transit visualization using **Flutter** + **Google Maps API**  
+- 🚍 Built real time transit visualization using **Flutter** + **Google Maps API**  
 - 🛠️ Developed routing engine with the **RAPTOR algorithm** and heuristics to minimize ETA  
 - ⚡ Applied SDLC best practices: Git workflow, unit testing, and CI/CD
 - 🌐 Serves UMICH campus with interactive map overlays and optimized routes
@@ -30,7 +30,7 @@ Thanks for checking out my GitHub (git pun intended 😉)! I love building thing
 
 ## 🔭 Other Projects
 - **RateYourPaint**: Full-stack CRUD app (PHP, JS, MySQL) with bcrypt authentication and Google Maps integration.  
-- **Arduino Infusion Pump**: Embedded system with PWM motor control, thermistor safety checks, and real-time buzzer/LCD alerts.  
+- **Arduino Infusion Pump**: Embedded system with PWM motor control, thermistor safety checks, and real time buzzer/LCD alerts.  
 
 ---
 
