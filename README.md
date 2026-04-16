@@ -7,7 +7,7 @@ Thanks for checking out my GitHub (git pun intended 😉)! I love building thing
 ---
 
 ## 〽️ Highlight Project: MaizeBus
-![MaizeBus App Screenshot](https://github.com/mbusdev/maizebus-web/blob/main/client/src/assets/Frame%203.png?raw=true)
+![MaizeBus App Screenshot](https://github.com/mbusdev/maizebus-web/blob/main/client/src/assets/Frame%205.png?raw=true)
 
 
 [MaizeBus Website](https://www.maizebus.com/) • Cross-platform transit app for University of Michigan students (download now!)
