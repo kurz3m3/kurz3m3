@@ -1,6 +1,6 @@
 # Hi, I'm Harvey
 
-**Aspiring Software Engineer | CS Student @ University of Michigan | Cofounder of MaizeBus App**
+**Software Engineer | CS Student @ University of Michigan | Co-founder of MaizeBus App**
 
 Thanks for checking out my GitHub (git pun intended 😉)! I love building things and creating real world solutions that make an impact.
 
